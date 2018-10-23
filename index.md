@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-01月27日  小宝贝生日
+1月27日  小宝贝生日
 8月18日   美好的开始
 10月2日   见证奇迹的时刻
 
